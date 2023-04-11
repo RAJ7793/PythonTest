@@ -53,3 +53,4 @@ Example:
 Generators:
 Generators are a special kind of function, which enable us to implement or generate iterators.Iterators are a fundamental concept of Python.Mostly, iterators are implicitly used, like in the for loop of Python.A generator is a function that produces a sequence of results instead of a single value. Generators are a simple and powerful possibility to create or to generate iterators. These iterators are called generator objects. On the surface they look like functions, but there is both a syntactic and a semantic difference. Instead of return statements you will find inside of the body of a generator only yield statements, i.e. one or more yield statements.
 
+Python oops 
